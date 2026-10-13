@@ -1,4 +1,4 @@
-## noVNC-GBK-Compatible
+## noVNC-GBK-Clipboard
 
 > [!WARNING]
 > Not sync with the original repo, do not clone.
